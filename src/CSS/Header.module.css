@@ -1,0 +1,32 @@
+.block{
+
+    width: 100%;
+    height: auto;
+    padding-bottom: 3px;
+    padding-top: 4px;
+    background-color: #eab676;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+
+
+
+}
+.para{
+   margin-left: 3rem;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   max-width: fit-content;
+   
+}
+.header{
+    margin-top:1rem;
+}
+.body{
+    font-family:sans-serif;
+    margin-bottom: 2rem;
+    /* background-color: red; */
+    /* font-weight: bolder; */
+
+
+
+
+}
