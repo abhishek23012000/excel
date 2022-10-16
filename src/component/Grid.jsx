@@ -16,6 +16,7 @@ function ResponsiveAutoExample() {
         <Col sm={8}>
   
   
+
         <Header />
           <div style={{backgroundColor: "",height:"100%"}}>
             {/* Ist accordian */}
