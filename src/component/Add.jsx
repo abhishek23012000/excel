@@ -8,6 +8,7 @@ export default class Add extends React.Component {
 render () {
     return (
       <div className='ad'>
+        <h2>hyy</h2>
         <ins className='adsbygoogle'
           style={{ display: 'block' }}
           data-ad-client='ca-pub-1872245526491140'
