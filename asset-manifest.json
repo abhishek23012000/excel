@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/excel/static/css/main.dca353cd.css",
-    "main.js": "/excel/static/js/main.de523e23.js",
+    "main.js": "/excel/static/js/main.703c1120.js",
     "index.html": "/excel/index.html",
     "main.dca353cd.css.map": "/excel/static/css/main.dca353cd.css.map",
-    "main.de523e23.js.map": "/excel/static/js/main.de523e23.js.map"
+    "main.703c1120.js.map": "/excel/static/js/main.703c1120.js.map"
   },
   "entrypoints": [
     "static/css/main.dca353cd.css",
-    "static/js/main.de523e23.js"
+    "static/js/main.703c1120.js"
   ]
 }
