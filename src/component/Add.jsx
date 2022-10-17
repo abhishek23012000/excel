@@ -1,4 +1,5 @@
 import React from 'react';
+import Navbar from "./Navbar";
 
 export default class Add extends React.Component {
   componentDidMount () {
@@ -7,7 +8,9 @@ export default class Add extends React.Component {
 
 render () {
     return (
-      <div className='ad'>
+      <>
+      <Navbar />
+        <div className='ad'>
         <h2>hyy</h2>
         <ins className='adsbygoogle'
           style={{ display: 'block' }}
@@ -18,6 +21,8 @@ render () {
          
            />
       </div>
+      </>
+    
     );
   }
 }

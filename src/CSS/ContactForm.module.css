@@ -1,0 +1,26 @@
+.ContactForm{
+    /* background-color: red; */
+  
+   
+    
+}
+.container{
+   
+    /* margin-top: 50%; */
+    position: absolute;
+    /* background-color: red; */
+left: 50%;
+top: 50%;
+transform: translate(-50%, -50%);
+border: 5px solid #FFFF00;
+padding: 30px;
+}
+.row{
+    /* margin-bottom: 100px; */
+    /* background-color: red; */
+    max-width: 200%px;
+}
+.head{
+    text-align: center;
+    margin-top: 5rem;
+}
