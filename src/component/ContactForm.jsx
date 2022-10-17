@@ -60,7 +60,7 @@ const ContactForm = () => {
 
   return (
     <>
-    <Navbar />
+    
     
     <div className={Contact.ContactForm}>
     <h2 className={ Contact.head }>Contact Us</h2>

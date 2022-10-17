@@ -9,7 +9,7 @@ export default class Add extends React.Component {
 render () {
     return (
       <>
-      <Navbar />
+     
         <div className='ad'>
         <h2>hyy</h2>
         <ins className='adsbygoogle'

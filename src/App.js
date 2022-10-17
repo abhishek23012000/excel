@@ -4,10 +4,12 @@ import Home from "./component/Home";
 import Add from "./component/Add";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import ContactForm from './component/ContactForm';
+import Navbar from "./component/Navbar";
 
 function App() {
   return (
     <div className="App">
+<Navbar />
 <BrowserRouter>
       <Routes>
       <Route  path="*" element={<Home />} />
